@@ -1,19 +1,19 @@
 #!/bin/bash
 
-#Learning script
+#Learning script to start services
 
 echo "   BALETA SECURITY" #print
 echo "<------------------->"
-echo "Digite o serviço que sera iniciado: "
+echo "Which service should be initiated?"
 read -r var1
 
 service "$var1" restart
 
 
-echo "Servicos ativos: "
+echo "Active services: "
 
 ps aux | grep "$var1"
 
-echo "Portas abertas: "
+echo "Open ports: "
 
 netstat -nlpt
