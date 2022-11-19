@@ -2,7 +2,7 @@
 
 Random bash script projects I am currently working on...
 
-![](https://github.com/mateusbaleta/pythonPOO/blob/main/img/bash-script.png?raw=true)
+![](https://github.com/mateusbaleta/bashTraining/blob/main/img/bash-script.png?raw=true)
 
 ## 🚀 Run
 
