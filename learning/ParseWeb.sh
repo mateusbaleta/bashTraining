@@ -28,6 +28,6 @@ else
 
     for url in $(cat lista);
     do
-        host "$url";
+       host "$url";
     done
 fi
