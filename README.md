@@ -1,8 +1,8 @@
-# Bash script projects
+# Shell script projects
 
-Random bash script projects I am currently working on...
+Random shell script projects I am currently working on...
 
-![](https://github.com/mateusbaleta/bashTraining/blob/main/img/bash-script.png?raw=true)
+![](https://github.com/mateusbaleta/bashTraining/blob/main/img/shell-script-logo.png?raw=true)
 
 ## 🚀 Run
 
@@ -12,6 +12,7 @@ It might but it might not to
 ### 📋 Prerequisites
 
 - bash shell
+- powershell
 
 
 ### 🔧 Installation
@@ -21,7 +22,7 @@ Not needed
 
 ## 🛠️ Made with
 
-- bash script
+- shell script
 
 
 ⌨️ Made with ❤
