@@ -1,6 +1,6 @@
-# Shell script projects
+# Shell script training
 
-Random shell script projects I am currently working on...
+Random shell script training...
 
 ![](https://github.com/mateusbaleta/bashTraining/blob/main/img/shell-script-logo.png?raw=true)
 
